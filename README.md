@@ -12,3 +12,7 @@ If cutting with Ethos, set red to Cut-through, and black to engrave.
 Line bend the acrylic where to two engrave marks are down the edge.
 
 ![Bridge Stand](https://pbs.twimg.com/media/BY-URgFIQAA_pcp.jpg)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alfo/bergbridgestand/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
